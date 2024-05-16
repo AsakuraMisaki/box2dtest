@@ -1,0 +1,19 @@
+{
+  "name": "box2dwasm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "keywords": [
+    "box2d"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "box2d-wasm": "^7.0.0",
+    "vite": "^5.2.11"
+  }
+}
